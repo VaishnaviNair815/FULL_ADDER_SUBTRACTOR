@@ -25,6 +25,7 @@ Carry = AB + ACin + BCin
 ![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
 
 **Figure -1 FULL ADDER**
+![Screenshot 2024-12-04 134846](https://github.com/user-attachments/assets/24196716-de21-4d6d-9418-7223aa322704)
 
 **Full Subtractor**
 
@@ -37,6 +38,7 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+![Screenshot 2024-12-04 134606](https://github.com/user-attachments/assets/3f4b1165-5855-49e6-a411-c5604880a1a1)
 
 **Procedure**
 
@@ -44,14 +46,23 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
+![Screenshot 2024-12-04 134204](https://github.com/user-attachments/assets/8d6fd7a0-bfbe-405b-9616-1b55a0f0432a)
+
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:Vaishnavi R Nair RegisterNumber:24003448
+
 
 **RTL Schematic**
 
+![Screenshot 2024-12-04 134221](https://github.com/user-attachments/assets/1f86e2d9-be0d-4a40-be61-5dba09115c71)
+
 **Output Timing Waveform**
 
+
+![Screenshot 2024-12-04 134238](https://github.com/user-attachments/assets/1b9c2d46-2f96-40d6-8dc4-b78e6ac4c28d)
+
 **Result:**
+
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
